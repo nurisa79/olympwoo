@@ -1,0 +1,364 @@
+#menu{
+    background: #755DDC;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menu1{
+       color: #F2F2F2;
+  width: 600px;
+}
+.menu1{
+ display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menuRaz{
+    display: grid;
+    grid-template-columns: 1fr  ;
+}
+
+.btn1{
+    color: white;
+    width: 120px;
+    height: 35px;
+    border: 0.5px solid #F2F2F2;
+    border-radius: 6px;
+    background: #755DDC;
+}
+.btn1{
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #F2F2F2;
+}
+.btn2{
+    margin: 20px;
+    color: #755DDC;
+    width: 120px;
+    height: 35px;
+    border: 0.5px solid #F2F2F2;
+    border-radius: 6px;
+}
+.btn2{
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    /* Campwoo Purple */
+
+    color: #5A47AB;
+}
+
+#lmp{
+   background: #755DDC;
+}
+.lmpRis{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 150px;
+    margin-left: -120px;
+}
+.lmpTex2{
+    width: 640px;
+    height: 165px;
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 55px;
+
+    color: #F2F2F2;
+}
+
+
+.lmpTex1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.btn4 {
+    width: 200px;
+    height: 50px;
+    background: #39229A;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 22px;
+    line-height: 30px;
+    /* identical to box height */
+    color: #F2F2F2;
+}
+
+.btn5{
+    margin: 10px;
+    width: 300px;
+    height: 50px;
+    background: #F2F2F2;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 22px;
+    line-height: 30px;
+    /* identical to box height */
+    /* Campwoo Purple */
+    color: #5A47AB;
+}
+.img{
+   margin-top: 150px;
+
+}
+
+#EGI{
+
+}
+.Egit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.egit{
+    margin-left: 280px;
+    margin-top: 50px;
+}
+.imgEgit{
+  position: absolute;
+    width: 245.31px;
+    height: 36.37px;
+    margin-top: 48px;
+    margin-left: -260px;
+
+}
+.egitText{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 61px;
+    /* identical to box height */
+    color: #5A47AB;
+}
+.egit1{
+    position: absolute;
+    width: 688px;
+    height: 60px;
+    margin-top: 150px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+    color: #796F6F;
+}
+
+.K7\/24{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.Kam{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.KamImg{
+    margin-top: 100px;
+}
+.KamImg2{
+    position: absolute;
+    margin-top: 45px;
+}
+.KamText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #5A47AB;
+}
+.KamText1{
+    width: 293px;
+    height: 75px;
+    margin: 1px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #796F6F;
+}
+
+#Pop{
+
+}
+.pop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 150px;
+}
+.popTex{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 61px;
+    /* identical to box height */
+    color: #5A47AB;
+}
+.popTex1{
+    margin: 1px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    /* identical to box height */
+    text-align: center;
+    color: #796F6F;
+}
+.popTex2{
+    position: absolute;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #5A47AB;
+    margin-top: 150px;
+    margin-left: 1200px;
+}
+.aka{
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 24px;
+}
+.Aka{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 40px;
+    width: 1600px;
+}
+.akaTex{
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+    color: #5A47AB;
+}
+.akaTex1{
+    margin-top: -10px;
+    font-size: 22px;
+    color: #796F6F;
+
+}
+
+#ozu{
+
+}
+.Ozu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.ozuText{
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 61px;
+    color: #5A47AB;
+}
+.Ozu1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.ozuText1{
+    width: 461px;
+    height: 90px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #796F6F;
+}
+.OzuBut{
+    font-weight: 700;
+    line-height: 30px;
+    font-size: 22px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    width: 280px;
+    height: 50px;
+    cursor: pointer;
+    background: #39229A;
+}
+.OzuBut1{
+    font-weight: 700;
+    line-height: 30px;
+    font-size: 22px;
+    border-radius: 10px;
+    border: none;
+    color: #5A47AB;
+    width: 280px;
+    height: 50px;
+    cursor: pointer;
+    background: #FBD15B;
+}
+.Ozu2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 50px;
+    width: 1200px;
+}
+.OzuImg{
+    width: 1800px;
+    height: 3px;
+    margin-top: 300px;
+}
+
+#cem{
+
+}
+.cemImg{
+    margin-top: 200px;
+}
+.cemTex{
+    width: 556px;
+    height: 99px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 33px;
+    color: #796F6F;
+}
+.cemTex1{
+    color: #5A47AB;
+}
+.cemTex2{
+    color: #796F6F;
+}
+.cem1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.cem2{
+    margin-left: 50px;
+}
+.foo {
+    margin: 50px;
+}
+@media (max-width: 1024px) {
+    .container{
+        width: 1000px;
+    }
+}
